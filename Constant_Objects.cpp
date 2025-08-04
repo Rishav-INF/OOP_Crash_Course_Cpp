@@ -10,7 +10,7 @@ using namespace std;
 */
 
 class MyClass {
-private:
+private: //changed
     int private_var;
 public:
     int public_var;
